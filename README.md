@@ -26,13 +26,13 @@ Middle-Income: China, Turkey, and Malaysia
 High-Income: Korea, Japan, and Singapore  
 
 ## Key Insights
-Many Asian countries rely on higher manufacturing output for growth.  
-Countries that have high growth also tend to have a higher working-age population, as more people earning income and paying taxes increase GDP.  
-Most countries are export-oriented, meaning they rely on exports for growth.  
-Most countries devalue their currency to make their exports cheaper.  
-How a country transforms into an advanced economy is through continued growth in manufacturing, gross fixed capital formation, a ballooning finance sector, in addition to a growing working-age population.  
-Developed countries tend to have a lower growth rate than developing/middle-income countries due to the catch-up effect.  
-The proportion of the working-age population tends to decline due to an aging population. Countries that have high growth also tend to have a higher working-age population, as more people earning income and paying taxes increase GDP.  
+- Many Asian countries rely on higher manufacturing output for growth.  
+- Countries that have high growth also tend to have a higher working-age population, as more people earning income and paying taxes increase GDP.  
+- Most countries are export-oriented, meaning they rely on exports for growth.  
+- Most countries devalue their currency to make their exports cheaper.  
+- How a country transforms into an advanced economy is through continued growth in manufacturing, gross fixed capital formation, a ballooning finance sector, in addition to a growing working-age population.  
+- Developed countries tend to have a lower growth rate than developing/middle-income countries due to the catch-up effect.   
+- The proportion of the working-age population tends to decline due to an aging population. Countries that have high growth also tend to have a higher working-age population, as more people earning income and paying taxes increase GDP.  
 Most countries are export-oriented, meaning they rely on exports for growth.
 Most countries devalue their currency to make their exports cheaper.
 How a country transforms into an advanced economy is through continued growth in manufacturing, gross fixed capital formation, a ballooning finance sector, in addition to a growing working-age population.
